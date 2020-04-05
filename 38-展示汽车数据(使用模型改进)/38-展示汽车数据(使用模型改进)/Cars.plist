@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string>德系品牌</string>
+		<key>footer</key>
+		<string>德系品牌Good</string>
+		<key>cars</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>m_2_100</string>
+				<key>name</key>
+				<string>奔驰</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>m_3_100</string>
+				<key>name</key>
+				<string>宝马</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>日系品牌</string>
+		<key>footer</key>
+		<string>日系品牌Great</string>
+		<key>cars</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>m_2_100</string>
+				<key>name</key>
+				<string>奔驰</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>m_3_100</string>
+				<key>name</key>
+				<string>宝马</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>m_2_100</string>
+				<key>name</key>
+				<string>奔驰</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
